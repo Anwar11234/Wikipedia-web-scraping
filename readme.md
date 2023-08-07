@@ -1,0 +1,2 @@
+# Wikipedia web scraping 
+a basic project that utilizes BeautifulSoup and requests libray to scrape data from a wikipedia page that has a list of largest companies in the United States by revenue. After scraping the data it's saved into a pandas DataFrame. then some data preprocessing is done to make some basic visualizations of the data stored in the data frame.
